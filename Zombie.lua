@@ -1,5 +1,5 @@
 --!strict
- 
+-- Discorde username is: clofes_37093, and roblox username is @Skidfly
 local SSS = game:GetService("ServerScriptService")
 local RS = game:GetService("ReplicatedStorage")
 local SS = game:GetService("ServerStorage")
